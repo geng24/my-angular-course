@@ -68,13 +68,9 @@
     ],
     "object-literal-sort-keys": false,
     "ordered-imports": false,
-    "quotemark": [
-      true,
-      "single"
-    ],
+    "quotemark": false,
     "trailing-comma": false,
-    "no-conflicting-lifecycle": true,
-    "no-host-metadata-property": true,
+    "no-conflimetadata-property": true,
     "no-input-rename": true,
     "no-inputs-metadata-property": true,
     "no-output-native": true,
